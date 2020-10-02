@@ -1,0 +1,15 @@
+.modal--hidden {
+	visibility: hidden;
+}
+
+.modal-menu {
+	visibility: visible;
+}
+
+.modal-menu--hidden {
+	visibility: hidden;
+}
+
+.table-cell__input {
+	border: 0;
+}

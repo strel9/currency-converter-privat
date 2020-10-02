@@ -1,0 +1,18 @@
+table {
+	display: flex;
+	border-collapse: collapse;
+}
+
+tbody {
+	/* width: 100%; */
+}
+
+table td {
+	border: solid 1px black;
+	text-align: center;
+	padding: 20px;
+}
+tr {
+	/* width: 100%; */
+}
+
